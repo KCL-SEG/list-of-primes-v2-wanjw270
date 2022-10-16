@@ -14,4 +14,4 @@ def primes(number_of_primes):
         if isPrime:
             list.append(num)
         num += 1
-    return 
+    return list
